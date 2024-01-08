@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Movies Dalvik</string>
+    <string name="app_name">MVP TMDB</string>
     <string name="communication_error">Error in getting data. Please try again later.</string>
     <string name="most_popular_movies">Most Popular Movies</string>
     <string name="overview">Overview</string>
